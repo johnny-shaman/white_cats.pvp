@@ -1,0 +1,25 @@
+{
+  "name": "white_cats.pvp",
+  "version": "0.0.0",
+  "description": "white_cats.pvp is a server side messaging example for WebRTC PvP on WebSockets",
+  "main": "pvp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny-shaman/white_cats.pvp.git"
+  },
+  "keywords": [
+    "WebRTC",
+    "Signaling",
+    "back-end",
+    "PvP"
+  ],
+  "author": "Noboru Okazaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnny-shaman/white_cats.pvp/issues"
+  },
+  "homepage": "https://github.com/johnny-shaman/white_cats.pvp#readme"
+}
