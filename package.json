@@ -1,6 +1,6 @@
 {
   "name": "white_cats.pvp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "white_cats.pvp is a server side messaging example for WebRTC PvP on WebSockets",
   "main": "pvp.js",
   "scripts": {

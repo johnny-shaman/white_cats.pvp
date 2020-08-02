@@ -3,6 +3,8 @@ white_cats.pvp is a server side messaging example for WebRTC PvP on Websocket
 
 It is a example of white_cats with echoback
 
+Let's try it on [Glitch](https://glitch.com/~dsand-chat)
+
 Usage:
 
 Node.js:
@@ -18,8 +20,8 @@ Browser:
 ```html
     <!-- put a tag into the body tag-->
     <script src="https://cdn.jsdelivr.net/npm/white_cats@0.1.27/cat.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dsand@0.7.60/dsand.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dsand@0.7.60/pvp.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dsand@0.7.64/dsand.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dsand@0.7.64/pvp.js"></script>
 ```
 
 ```javascript
